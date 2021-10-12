@@ -1,14 +1,14 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files
 
-browserslisttrc
-editorconfig
-angular.json
-karma.conf.js
-package-lock.json
-package.json
-tsconfig.app.json
-tsconfig.json
-tsconfig.spec.json
+/.browserslisttrc
+/.editorconfig
+/angular.json
+/karma.conf.js
+/package-lock.json
+/package.json
+/tsconfig.app.json
+/tsconfig.json
+/tsconfig.spec.json
 
 
 # compiled output
